@@ -1,0 +1,39 @@
+{
+  "instances": [
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "🇩🇪",
+      "url": "https://api-piped.shimul.me"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "United Kingdom",
+      "flag": "🇬🇧",
+      "url": "https://pipedapi.moomoo.me"
+    },
+    {
+      "app": "Piped",
+      "region": "Europe",
+      "country": "Finland",
+      "flag": "🇫🇮",
+      "url": "https://api.yt.jae.fi"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "url": "https://invidious.osi.kr"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://vid.puffyan.us"
+    }
+  ]
+}
