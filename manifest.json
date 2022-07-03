@@ -2,13 +2,6 @@
   "instances": [
     {
       "app": "Piped",
-      "region": "North America",
-      "country": "Canada",
-      "flag": "🇨🇦",
-      "url": "https://pipedapi.esmailelbob.xyz"
-    },
-    {
-      "app": "Piped",
       "region": "Europe",
       "country": "Finland",
       "flag": "🇫🇮",
