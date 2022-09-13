@@ -104,6 +104,13 @@
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://inv.riverside.rocks"
+    },
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://watchapi.whatever.social"
     }
   ]
 }
