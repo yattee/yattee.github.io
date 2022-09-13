@@ -5,7 +5,7 @@
       "region": "Europe",
       "country": "Finland",
       "flag": "🇫🇮",
-      "url": "https://pipedapi.kavin.rocks"
+      "url": "https://api-piped.mha.fi"
     },
     {
       "app": "Piped",
@@ -82,7 +82,7 @@
       "region": "Europe",
       "country": "United Kingdom",
       "flag": "🇬🇧",
-      "url": "https://pipedapi.kavin.rocks"
+      "url": "https://pipedapi.moomoo.me"
     },
     {
       "app": "Invidious",
@@ -96,7 +96,7 @@
       "region": "North America",
       "country": "United States",
       "flag": "🇺🇸",
-      "url": "https://pipedapi.kavin.rocks"
+      "url": "https://papius.palash.dev"
     },
     {
       "app": "Invidious",
