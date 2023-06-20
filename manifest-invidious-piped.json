@@ -111,6 +111,13 @@
       "country": "United States",
       "flag": "🇺🇸",
       "url": "https://watchapi.whatever.social"
+    },
+    {
+      "app": "Invidious",
+      "region": "Europe",
+      "country": "Germany",
+      "flag": "DE",
+      "url": "https://yt.whateveritworks.org"
     }
   ]
 }
